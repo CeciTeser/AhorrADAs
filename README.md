@@ -1,6 +1,6 @@
 # AhorrADAs
 
-DEPLOY: https://ahorradas.netlify.app/
+DEPLOYED: https://ahorradas.netlify.app/
 
 
 
